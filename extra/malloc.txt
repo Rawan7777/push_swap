@@ -1,5 +1,0 @@
-internal_functions  44  array
-split_them          48  (*array)[index]
-internal_functions  60
-internal_functions  61
-ft_lstadd_back      19
