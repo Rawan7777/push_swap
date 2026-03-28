@@ -20,7 +20,7 @@
 
 ---
 
-## 📖 Project grade screenshot
+## ✅ Project grade screenshot
 
 ![Project screenshot](readme_asset/Screenshot.png)
 
