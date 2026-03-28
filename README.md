@@ -22,7 +22,7 @@
 
 ## 📖 Project grade screenshot
 
-![Project screenshot](asset/screenshot.png)
+![Project screenshot](readme_asset/Screenshot.png)
 
 ## 📖 What is push_swap?
 
