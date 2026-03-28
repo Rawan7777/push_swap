@@ -20,6 +20,10 @@
 
 ---
 
+## 📖 Project grade screenshot
+
+![Project screenshot](asset/screenshot.png)
+
 ## 📖 What is push_swap?
 
 **push_swap** is an algorithmic sorting challenge from the 42 curriculum. The rules are simple but brutal:
